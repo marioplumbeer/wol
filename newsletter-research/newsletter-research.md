@@ -113,27 +113,7 @@ Studying 4 tech-career newsletters to inform a new one.
 
 ## 4. Content Structure Templates
 
-Each newsletter now has 3 markdown templates, one per file, each derived from a different full sample post — covering the range of recurring formats each publication rotates through.
-
-**Scarlet Ink**
-- [template-scarlet-ink.md](template-scarlet-ink.md) — "Metaphor → Concept → Application" essay
-- [template-scarlet-ink-2-numbered-steps.md](template-scarlet-ink-2-numbered-steps.md) — "Numbered Steps" advice post
-- [template-scarlet-ink-3-faq-explainer.md](template-scarlet-ink-3-faq-explainer.md) — "Insider FAQ" explainer post
-
-**The Pragmatic Engineer**
-- [template-pragmatic-engineer.md](template-pragmatic-engineer.md) — "The Pulse" roundup (+ interview/deep-dive variant)
-- [template-pragmatic-engineer-2-trend-report.md](template-pragmatic-engineer-2-trend-report.md) — "Trend report"
-- [template-pragmatic-engineer-3-company-deep-dive.md](template-pragmatic-engineer-3-company-deep-dive.md) — "Company deep-dive"
-
-**A Life Engineered**
-- [template-a-life-engineered.md](template-a-life-engineered.md) — "Borrowed quote → framework → exercise"
-- [template-a-life-engineered-2-live-coaching.md](template-a-life-engineered-2-live-coaching.md) — "Live coaching session"
-- [template-a-life-engineered-3-numbered-listicle.md](template-a-life-engineered-3-numbered-listicle.md) — "Numbered listicle"
-
-**Level Up (Ethan Evans)**
-- [template-level-up.md](template-level-up.md) — "Reader question → root cause → playbook"
-- [template-level-up-2-ama-roundup.md](template-level-up-2-ama-roundup.md) — "AMA / Q&A roundup"
-- [template-level-up-3-leaked-memo-case-study.md](template-level-up-3-leaked-memo-case-study.md) — "Leaked coaching memo" case study
+*(Removed — starting over on this section per new instructions.)*
 
 ---
 *Research doc — will keep updating as we study more.*
