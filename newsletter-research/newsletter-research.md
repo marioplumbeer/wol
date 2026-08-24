@@ -11,9 +11,12 @@ Studying 4 tech-career newsletters to inform a new one.
 | **Core angle** | Career/leadership lessons from Amazon corporate life | Industry insider reporting — "Big Tech and startups, from the inside" | Systems-thinking applied to life design | Executive leadership coaching, "AI-proof" skills |
 | **Voice** | Mentor-like, confessional (frames advice around his own mistakes) | Journalistic, insider-informed, interview-heavy | Analytical/methodical, engineer-brain on soft topics | Professional coach — practical, testimonial-backed |
 | **Format** | Numbered-list essays, partly paywalled | "The Pulse" (news roundup) + deep-dive interviews with named guests | Numbered-list essays + long-form recorded coaching sessions | Weekly leadership essays w/ frameworks + stories |
+| **Length** | ~10 min read / ~1,000–1,500 words (free preview)† | ~5–10 min for "The Pulse" roundups; 20–30+ min (3,000–8,000+ words) for deep-dives/interviews† | ~5 min / ~1,000 words for essays; video coaching sessions of unstated duration† | ~3–5 min / 300–500 words visible; rest gated, full length unknown† |
 | **Distinctive move** | Firsthand Amazon process detail (stack ranking, PIPs) | Reporting/interview journalism as a beat | Publishes real coaching sessions as content | "I managed you and here's proof" social proof |
 
 *\* Author, Scale, Core angle, Voice, and Format are all pulled directly from each newsletter's own homepage (linked in the header row above) — their self-description, bio blurb, and (where shown) the subscriber count displayed on the page. Scarlet Ink runs on Ghost, which doesn't publicly display a subscriber counter, so its Scale is marked unknown rather than guessed, unlike the other three (Substack, which does show one).*
+
+*† Length is estimated from the specific sample posts used to build the Section 4 templates (linked there), not a full-archive average. Most posts are partly paywalled, so figures reflect what's visible in the free preview — the true full-post length is often unknown.*
 
 **Cross-cutting takeaway:** 3 of 4 authors are ex-Amazon; credibility hook = "I did this inside the machine." Two of the higher-reach newsletters (Pragmatic Engineer, Level Up) use a two-track cadence: a recurring roundup/news format + deep-dive essays or interviews.
 
