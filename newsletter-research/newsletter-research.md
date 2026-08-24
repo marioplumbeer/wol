@@ -104,7 +104,7 @@ Studying 4 tech-career newsletters to inform a new one.
 - Subtitles are consistently **3-part promise lists**: "identify X, strengthen Y, and stop Z" / "stabilize execution, manage expectations, and build leverage" — a formulaic "verb, verb, and verb" rhythm across nearly every subtitle.
 - Non-question titles use **"[Topic]: [Outcome promise]"** colon structure (Executive Presence: Own the Room...).
 
-## 3. Synthesis — headline techniques worth stealing
+## 3. Synthesis — headline techniques worth adapting
 
 1. **Numbers as a promise of scannability** (Scarlet Ink, A Life Engineered) — "N things," "N steps."
 2. **A fixed recurring-series prefix** for news/roundup content (Pragmatic Engineer's "The Pulse:") — builds a ritual/habit for readers.
