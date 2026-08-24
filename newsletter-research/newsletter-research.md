@@ -9,7 +9,6 @@ Studying 4 tech-career newsletters to inform a new one.
 | **Author** | [David Anderson](https://www.linkedin.com/in/scarletink/), ex-Amazon GM/Director | [Gergely Orosz](https://www.linkedin.com/in/gergelyorosz/) | [Steve Huynh](https://www.linkedin.com/in/a-life-engineered/), ex-Amazon Principal Eng | [Ethan Evans](https://www.linkedin.com/in/ethanevansvp/), ex-Amazon Games VP |
 | **Scale** | unknown* | 1.1M+ subs* | 43K+ subs* | 86K+ subs* |
 | **Core angle** | Career/leadership lessons from Amazon corporate life | Industry insider reporting — "Big Tech and startups, from the inside" | Systems-thinking applied to life design | Executive leadership coaching, "AI-proof" skills |
-| **Distinctive move** | Firsthand Amazon process detail (stack ranking, PIPs) | Reporting/interview journalism as a beat | Publishes real coaching sessions as content | "I managed you and here's proof" social proof |
 
 *\* Author, Scale, and Core angle are all pulled directly from each newsletter's own homepage (linked in the header row above) — their self-description, bio blurb, and (where shown) the subscriber count displayed on the page. Scarlet Ink runs on Ghost, which doesn't publicly display a subscriber counter, so its Scale is marked unknown rather than guessed, unlike the other three (Substack, which does show one).*
 
