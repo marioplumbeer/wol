@@ -6,7 +6,7 @@ Studying 4 tech-career newsletters to inform a new one.
 
 | | **[Scarlet Ink](https://www.scarletink.com/)** | **[Pragmatic Engineer](https://newsletter.pragmaticengineer.com/)** | **[A Life Engineered](https://alifeengineered.substack.com/)** | **[Level Up (Ethan Evans)](https://levelupwithethanevans.substack.com/)** |
 |---|---|---|---|---|
-| **Author** | David Anderson, ex-Amazon GM/Director | Gergely Orosz | Steve Huynh, ex-Amazon Principal Eng | Ethan Evans, ex-Amazon Games VP |
+| **Author** | [David Anderson](https://www.linkedin.com/in/scarletink/), ex-Amazon GM/Director | [Gergely Orosz](https://www.linkedin.com/in/gergelyorosz/) | [Steve Huynh](https://www.linkedin.com/in/a-life-engineered/), ex-Amazon Principal Eng | [Ethan Evans](https://www.linkedin.com/in/ethanevansvp/), ex-Amazon Games VP |
 | **Scale** | mid-size* | 1.1M+ subs* | 43K+ subs* | 86K+ subs* |
 | **Core angle** | Career/leadership lessons from Amazon corporate life | Industry insider reporting — "Big Tech and startups, from the inside" | Systems-thinking applied to life design | Executive leadership coaching, "AI-proof" skills |
 | **Voice** | Mentor-like, confessional (frames advice around his own mistakes) | Journalistic, insider-informed, interview-heavy | Analytical/methodical, engineer-brain on soft topics | Professional coach — practical, testimonial-backed |
