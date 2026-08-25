@@ -113,7 +113,28 @@ Studying 4 tech-career newsletters to inform a new one.
 
 ## 4. Content Structure Templates
 
-*(Removed — starting over on this section per new instructions.)*
+### Playbook
+
+For posts that teach a repeatable process — "how I do X" — rather than tell a story or report news. Built from patterns seen across all four newsletters: Scarlet Ink's numbered/step titles, A Life Engineered's case-study specificity, Level Up's 3-part promise subtitles, and Pragmatic Engineer's pull-quote decks.
+
+**Title**
+- `The N-Step [Process] I Use for [Outcome]` or `N Steps to [Outcome]` — cardinal number + concrete outcome.
+- Optional reframe variant: lead with the counterintuitive claim, save the number for the subtitle.
+
+**Subtitle**
+- One sentence, 3-part promise rhythm: "[verb] X, [verb] Y, and [verb] Z" — or a single pull-quote stat/fact if the piece has one standout number.
+
+**Body structure**
+1. **Hook** — a specific, dated scenario or failure that makes the problem concrete (e.g. "After 1,000 interviews...", "Fixing an AWS engineer's behavioral interview in 66 minutes"). Not abstract — a real instance with a number or timeframe attached.
+2. **Stakes** — one paragraph on why this problem matters / what it costs to get wrong.
+3. **The steps** — numbered list, matching the title's count. Each step: a short imperative header + 2-4 sentences of how, not just what. Include one concrete example or line of dialogue per step where possible.
+4. **Common mistakes** — 1-2 bullets on how people get this wrong, positioned as a shortcut for the reader (optional but recurring across sources).
+5. **Takeaway** — restate the thesis in one declarative sentence, ideally ending in a period rather than a question — matches the "aphorism" closing tone seen in Scarlet Ink.
+
+**Voice notes**
+- First-person credibility markers throughout ("I've done this N times," "at Amazon I saw...").
+- Declarative sentence endings over exclamation points or questions.
+- Numbers stay consistent between title, step count, and subtitle — don't promise 7 and deliver 5.
 
 ---
 *Research doc — will keep updating as we study more.*
